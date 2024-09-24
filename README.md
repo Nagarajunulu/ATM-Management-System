@@ -7,6 +7,7 @@
  #### Mini statement :User can view recent transaction made on the account.
  #### Balance check :The system allows user to check their current balance at any time.
  #### PIN  Change : User can update their PIN for security after logging in.
+ #### datetime : Datetime will get after transaction is done.  .
  ## Queries
  The ATM Management system Project includes various queries like Depositing ,withdraws and balance check,check balance.
  #### 1.Please enter the amount you wish to deposit.
