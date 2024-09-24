@@ -1,2 +1,3 @@
 ## ATM-Management-System
- This is a ATM management system in Python lets users do basic banking tasks like withdrawing and depositing money. It also allows checking account balance and changing the PIN. Users need to log in with a password to access their account. The system has a simple menu for easy use.
+ This Project is a ATM management system in Python.it allows user to perform tasks like Depositing,Withdrawing ,Checking Account balances and changing PINS . Users need to login with a password to access their account.it Features a menu-driven interface to make transactions user-friendly.
+ 
