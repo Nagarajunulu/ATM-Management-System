@@ -10,9 +10,9 @@
  #### datetime : Datetime will get after transaction is done.  .
  ## Queries
  The ATM Management system Project includes various queries like Depositing ,withdraws and balance check,check balance.
- #### 1.Please enter the amount you wish to deposit.
- #### 2.How much amount would you like to withdraw.
- #### 3.confirm the deposits and withdraws (yes or no).
+ #### 1.Kindly enter the amount you would like to deposit.
+ #### 2.Please enter amount  you wish to withdraw.
+ #### 3. Please confirm the deposit and withdraw.select "YES" to proceed or "NO" to cancel.
  #### 4.How user can update their account PIN.
  #### 5.Display current Balance after withdrwals and deposits for the account.
  
