@@ -7,7 +7,6 @@ now=d.datetime.now()
 cus_name=input("Enter your name :")
 cus_pass=str(input("Enter your PIN:"))
 
-
 if cus_name==username and cus_pass==PIN :
       print('''
 1.Deposit
@@ -15,6 +14,7 @@ if cus_name==username and cus_pass==PIN :
 3.ministatement
 4.exit
        ''')
+      
 amount=50000
 
 option=int(input("select your option :"))
@@ -53,7 +53,6 @@ elif option==2:
      print(now.strftime("%c"))
 
 elif option==3:
-      
       print("========ATM========")
       print("Username :",username)
       print("total amount",amount)
